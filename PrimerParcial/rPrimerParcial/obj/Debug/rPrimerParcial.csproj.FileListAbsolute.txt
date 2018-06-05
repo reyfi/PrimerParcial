@@ -1,0 +1,12 @@
+C:\Users\rvasq\Desktop\PrimerParcial\rPrimerParcial\obj\Debug\rPrimerParcial.csprojAssemblyReference.cache
+C:\Users\rvasq\Desktop\PrimerParcial\rPrimerParcial\obj\Debug\rPrimerParcial.MainParcial.resources
+C:\Users\rvasq\Desktop\PrimerParcial\rPrimerParcial\obj\Debug\rPrimerParcial.Properties.Resources.resources
+C:\Users\rvasq\Desktop\PrimerParcial\rPrimerParcial\obj\Debug\rPrimerParcial.UI.Consulta.Consulta.resources
+C:\Users\rvasq\Desktop\PrimerParcial\rPrimerParcial\obj\Debug\rPrimerParcial.UI.Registro.Registro.resources
+C:\Users\rvasq\Desktop\PrimerParcial\rPrimerParcial\obj\Debug\rPrimerParcial.csproj.GenerateResource.cache
+C:\Users\rvasq\Desktop\PrimerParcial\rPrimerParcial\obj\Debug\rPrimerParcial.csproj.CoreCompileInputs.cache
+C:\Users\rvasq\Desktop\PrimerParcial\rPrimerParcial\bin\Debug\rPrimerParcial.exe.config
+C:\Users\rvasq\Desktop\PrimerParcial\rPrimerParcial\bin\Debug\rPrimerParcial.exe
+C:\Users\rvasq\Desktop\PrimerParcial\rPrimerParcial\bin\Debug\rPrimerParcial.pdb
+C:\Users\rvasq\Desktop\PrimerParcial\rPrimerParcial\obj\Debug\rPrimerParcial.exe
+C:\Users\rvasq\Desktop\PrimerParcial\rPrimerParcial\obj\Debug\rPrimerParcial.pdb
